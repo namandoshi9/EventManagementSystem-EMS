@@ -58,6 +58,10 @@ The **Event Management System** (EMS) is a web-based application built using **P
   </tr>
 </table>
 
+## 📄 Project Presentation  
+Download the detailed project presentation:  
+[Crystal Events Final PPT](Crystal_Events_Finalppt.pptx)
+
 ## 🛠️ Installation & Setup  
 ### 1️⃣ Clone the Repository  
 ```bash
